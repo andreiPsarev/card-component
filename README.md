@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://andreipsarev.github.io/card-component/)
+- Solution URL: [My solution on Github Pages](https://andreipsarev.github.io/card-component/)
 
 
 ## My process
